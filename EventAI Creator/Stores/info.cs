@@ -98,6 +98,7 @@ namespace EventAI_Creator
 /*46 | 01 */{"SET_THROW_MASK","EventTypeMask","","","Marks for which AIEvents the npc will throw AIEvents on its own."},
 /*47 | 01 */{"SET_STAND_STATE","StandState","","","Set the unit stand state (Param1) of the current creature."},
 /*48 | 01 */{"CHANGE_MOVEMENT","MovementType","WanderDistance","","Change the unit movement type (Param1). If the movement type is Random Movement (1), the WanderDistance (Param2) must be provided."},
+/*49 | 01 */{"SET_VARIABLE","VariableEntry","Value","",""},
         };
 
         public static string[] EventFlags = new string[]
